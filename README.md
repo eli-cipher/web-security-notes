@@ -6,7 +6,7 @@
 
 Personal notes and cheat sheets from PortSwigger Web Security Academy labs, organized by vulnerability category.
 
-**44 labs solved across 11 categories** — Business Logic Vulnerabilities in progress. Last updated Sep 2026.
+**44 labs solved across 11 categories** — new labs solved and published daily. Business Logic Vulnerabilities in progress.
 
 Each file covers one category. Every solved lab gets logged as: **Approach → Why → Tool**.
 
@@ -23,3 +23,17 @@ Each file covers one category. Every solved lab gets logged as: **Approach → W
 - [Cryptographic Failures](cryptographic-failures.md) — 1 lab (includes JWT signature bypass)
 - [Insecure Deserialization](insecure-deserialization.md) — 1 lab
 - [Business Logic Vulnerabilities/Flaws](business-logic-vulnerabilities.md) — 3 labs (in progress)
+
+## Format
+
+Each entry follows this structure:
+
+```
+## Category: <Category> → <Lab name>
+
+**Approach:** <what I did, what is the exact approach I take>
+
+**Why:** <why it worked / the underlying concept>
+
+**Tool:** <tools used>
+```
