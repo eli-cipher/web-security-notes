@@ -22,7 +22,7 @@ Each file covers one category. Every solved lab gets logged as: **Approach → W
 - [Path Traversal](path-traversal.md) — 1 lab
 - [Cryptographic Failures](cryptographic-failures.md) — 1 lab (includes JWT signature bypass)
 - [Insecure Deserialization](insecure-deserialization.md) — 1 lab
-- [Business Logic Vulnerabilities/Flaws](business-logic-vulnerabilities.md) — 3 labs (in progress)
+- [Business Logic Vulnerabilities/Flaws](business-logic-vulnerabilities.md) — 3 labs 
 
 ## Format
 
